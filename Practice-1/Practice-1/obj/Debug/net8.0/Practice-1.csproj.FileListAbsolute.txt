@@ -1,0 +1,14 @@
+E:\MY project\Practice-1\Practice-1\bin\Debug\net8.0\Practice-1.exe
+E:\MY project\Practice-1\Practice-1\bin\Debug\net8.0\Practice-1.deps.json
+E:\MY project\Practice-1\Practice-1\bin\Debug\net8.0\Practice-1.runtimeconfig.json
+E:\MY project\Practice-1\Practice-1\bin\Debug\net8.0\Practice-1.dll
+E:\MY project\Practice-1\Practice-1\bin\Debug\net8.0\Practice-1.pdb
+E:\MY project\Practice-1\Practice-1\obj\Debug\net8.0\Practice-1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY project\Practice-1\Practice-1\obj\Debug\net8.0\Practice-1.AssemblyInfoInputs.cache
+E:\MY project\Practice-1\Practice-1\obj\Debug\net8.0\Practice-1.AssemblyInfo.cs
+E:\MY project\Practice-1\Practice-1\obj\Debug\net8.0\Practice-1.csproj.CoreCompileInputs.cache
+E:\MY project\Practice-1\Practice-1\obj\Debug\net8.0\Practice-1.dll
+E:\MY project\Practice-1\Practice-1\obj\Debug\net8.0\refint\Practice-1.dll
+E:\MY project\Practice-1\Practice-1\obj\Debug\net8.0\Practice-1.pdb
+E:\MY project\Practice-1\Practice-1\obj\Debug\net8.0\Practice-1.genruntimeconfig.cache
+E:\MY project\Practice-1\Practice-1\obj\Debug\net8.0\ref\Practice-1.dll
