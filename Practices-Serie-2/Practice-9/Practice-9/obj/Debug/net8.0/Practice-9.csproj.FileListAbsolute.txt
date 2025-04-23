@@ -1,0 +1,15 @@
+D:\Practices-Project\Practices-Project\Practices-Serie-2\Practice-9\Practice-9\bin\Debug\net8.0\Practice-9.exe
+D:\Practices-Project\Practices-Project\Practices-Serie-2\Practice-9\Practice-9\bin\Debug\net8.0\Practice-9.deps.json
+D:\Practices-Project\Practices-Project\Practices-Serie-2\Practice-9\Practice-9\bin\Debug\net8.0\Practice-9.runtimeconfig.json
+D:\Practices-Project\Practices-Project\Practices-Serie-2\Practice-9\Practice-9\bin\Debug\net8.0\Practice-9.dll
+D:\Practices-Project\Practices-Project\Practices-Serie-2\Practice-9\Practice-9\bin\Debug\net8.0\Practice-9.pdb
+D:\Practices-Project\Practices-Project\Practices-Serie-2\Practice-9\Practice-9\obj\Debug\net8.0\Practice-9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices-Project\Practices-Project\Practices-Serie-2\Practice-9\Practice-9\obj\Debug\net8.0\Practice-9.AssemblyInfoInputs.cache
+D:\Practices-Project\Practices-Project\Practices-Serie-2\Practice-9\Practice-9\obj\Debug\net8.0\Practice-9.AssemblyInfo.cs
+D:\Practices-Project\Practices-Project\Practices-Serie-2\Practice-9\Practice-9\obj\Debug\net8.0\Practice-9.csproj.CoreCompileInputs.cache
+D:\Practices-Project\Practices-Project\Practices-Serie-2\Practice-9\Practice-9\obj\Debug\net8.0\Practice-9.sourcelink.json
+D:\Practices-Project\Practices-Project\Practices-Serie-2\Practice-9\Practice-9\obj\Debug\net8.0\Practice-9.dll
+D:\Practices-Project\Practices-Project\Practices-Serie-2\Practice-9\Practice-9\obj\Debug\net8.0\refint\Practice-9.dll
+D:\Practices-Project\Practices-Project\Practices-Serie-2\Practice-9\Practice-9\obj\Debug\net8.0\Practice-9.pdb
+D:\Practices-Project\Practices-Project\Practices-Serie-2\Practice-9\Practice-9\obj\Debug\net8.0\Practice-9.genruntimeconfig.cache
+D:\Practices-Project\Practices-Project\Practices-Serie-2\Practice-9\Practice-9\obj\Debug\net8.0\ref\Practice-9.dll
