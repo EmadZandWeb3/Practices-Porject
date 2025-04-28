@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dooooz(XO)/1.0.0": {
+        "runtime": {
+          "Dooooz(XO).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dooooz(XO)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
