@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Practices-Project\\Practices-Project\\Practices-Serie-2\\Dooooz(XO)\\",
+  "WorkspaceRootPath": "D:\\Practices-Project\\Practices-Project\\Dooz(X O)\\Dooooz(XO)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F2D6B51-3328-492A-9A0C-966CBB2A0EA3}|Dooooz(XO)\\Dooooz(XO).csproj|d:\\practices-project\\practices-project\\practices-serie-2\\dooooz(xo)\\dooooz(xo)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F2D6B51-3328-492A-9A0C-966CBB2A0EA3}|Dooooz(XO)\\Dooooz(XO).csproj|d:\\practices-project\\practices-project\\dooz(x o)\\dooooz(xo)\\dooooz(xo)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F2D6B51-3328-492A-9A0C-966CBB2A0EA3}|Dooooz(XO)\\Dooooz(XO).csproj|solutionrelative:dooooz(xo)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Practices-Project\\Practices-Project\\Practices-Serie-2\\Dooooz(XO)\\Dooooz(XO)\\Program.cs",
+              "DocumentMoniker": "D:\\Practices-Project\\Practices-Project\\Dooz(X O)\\Dooooz(XO)\\Dooooz(XO)\\Program.cs",
               "RelativeDocumentMoniker": "Dooooz(XO)\\Program.cs",
-              "ToolTip": "D:\\Practices-Project\\Practices-Project\\Practices-Serie-2\\Dooooz(XO)\\Dooooz(XO)\\Program.cs",
+              "ToolTip": "D:\\Practices-Project\\Practices-Project\\Dooz(X O)\\Dooooz(XO)\\Dooooz(XO)\\Program.cs",
               "RelativeToolTip": "Dooooz(XO)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwIwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T16:53:47.964Z",
               "EditorCaption": ""
