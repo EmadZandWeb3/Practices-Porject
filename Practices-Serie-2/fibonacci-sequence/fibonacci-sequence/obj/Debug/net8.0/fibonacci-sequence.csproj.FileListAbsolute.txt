@@ -1,0 +1,15 @@
+D:\Practices-Project\Practices-Project\Practices-Serie-2\fibonacci-sequence\fibonacci-sequence\bin\Debug\net8.0\fibonacci-sequence.exe
+D:\Practices-Project\Practices-Project\Practices-Serie-2\fibonacci-sequence\fibonacci-sequence\bin\Debug\net8.0\fibonacci-sequence.deps.json
+D:\Practices-Project\Practices-Project\Practices-Serie-2\fibonacci-sequence\fibonacci-sequence\bin\Debug\net8.0\fibonacci-sequence.runtimeconfig.json
+D:\Practices-Project\Practices-Project\Practices-Serie-2\fibonacci-sequence\fibonacci-sequence\bin\Debug\net8.0\fibonacci-sequence.dll
+D:\Practices-Project\Practices-Project\Practices-Serie-2\fibonacci-sequence\fibonacci-sequence\bin\Debug\net8.0\fibonacci-sequence.pdb
+D:\Practices-Project\Practices-Project\Practices-Serie-2\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\fibonacci-sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices-Project\Practices-Project\Practices-Serie-2\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\fibonacci-sequence.AssemblyInfoInputs.cache
+D:\Practices-Project\Practices-Project\Practices-Serie-2\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\fibonacci-sequence.AssemblyInfo.cs
+D:\Practices-Project\Practices-Project\Practices-Serie-2\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\fibonacci-sequence.csproj.CoreCompileInputs.cache
+D:\Practices-Project\Practices-Project\Practices-Serie-2\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\fibonacci-sequence.sourcelink.json
+D:\Practices-Project\Practices-Project\Practices-Serie-2\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\fibonacci-sequence.dll
+D:\Practices-Project\Practices-Project\Practices-Serie-2\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\refint\fibonacci-sequence.dll
+D:\Practices-Project\Practices-Project\Practices-Serie-2\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\fibonacci-sequence.pdb
+D:\Practices-Project\Practices-Project\Practices-Serie-2\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\fibonacci-sequence.genruntimeconfig.cache
+D:\Practices-Project\Practices-Project\Practices-Serie-2\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\ref\fibonacci-sequence.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practices-Project\\Practices-Project\\Practices-Serie-2\\fibonacci-sequence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9F9BCA-B081-446A-9594-9F790CE8F080}|fibonacci-sequence\\fibonacci-sequence.csproj|d:\\practices-project\\practices-project\\practices-serie-2\\fibonacci-sequence\\fibonacci-sequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9F9BCA-B081-446A-9594-9F790CE8F080}|fibonacci-sequence\\fibonacci-sequence.csproj|solutionrelative:fibonacci-sequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practices-Project\\Practices-Project\\Practices-Serie-2\\fibonacci-sequence\\fibonacci-sequence\\Program.cs",
+              "RelativeDocumentMoniker": "fibonacci-sequence\\Program.cs",
+              "ToolTip": "D:\\Practices-Project\\Practices-Project\\Practices-Serie-2\\fibonacci-sequence\\fibonacci-sequence\\Program.cs",
+              "RelativeToolTip": "fibonacci-sequence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:19:56.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
