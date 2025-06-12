@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|d:\\practices-project\\practices-project\\final-project\\financemanager\\financemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|d:\\practices-project\\practices-project\\final-project\\financemanager\\financemanager\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|d:\\practices-project\\practices-project\\final-project\\financemanager\\financemanager\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|d:\\practices-project\\practices-project\\final-project\\financemanager\\financemanager\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|d:\\practices-project\\practices-project\\final-project\\financemanager\\financemanager\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|d:\\practices-project\\practices-project\\final-project\\financemanager\\financemanager\\data\\categories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\data\\categories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|d:\\practices-project\\practices-project\\final-project\\financemanager\\financemanager\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|d:\\practices-project\\practices-project\\final-project\\financemanager\\financemanager\\data\\transactions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\data\\transactions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|d:\\practices-project\\practices-project\\final-project\\financemanager\\financemanager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|d:\\practices-project\\practices-project\\final-project\\financemanager\\financemanager\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|d:\\practices-project\\practices-project\\final-project\\financemanager\\financemanager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9061BE3E-ED80-4F80-92F4-FB19FE2136F2}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "categories.json",
+              "DocumentMoniker": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Data\\categories.json",
+              "RelativeDocumentMoniker": "FinanceManager\\Data\\categories.json",
+              "ToolTip": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Data\\categories.json",
+              "RelativeToolTip": "FinanceManager\\Data\\categories.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T14:14:45.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "transactions.json",
+              "DocumentMoniker": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Data\\transactions.json",
+              "RelativeDocumentMoniker": "FinanceManager\\Data\\transactions.json",
+              "ToolTip": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Data\\transactions.json",
+              "RelativeToolTip": "FinanceManager\\Data\\transactions.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T07:45:06.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "users.json",
+              "DocumentMoniker": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Data\\users.json",
+              "RelativeDocumentMoniker": "FinanceManager\\Data\\users.json",
+              "ToolTip": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Data\\users.json",
+              "RelativeToolTip": "FinanceManager\\Data\\users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T18:22:33.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Services\\ReportService.cs",
+              "ToolTip": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Services\\ReportService.cs",
+              "RelativeToolTip": "FinanceManager\\Services\\ReportService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA9wHgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:13:02.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Program.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Program.cs",
+              "ToolTip": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Program.cs",
+              "RelativeToolTip": "FinanceManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:28:58.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Services\\CategoryService.cs",
+              "RelativeToolTip": "FinanceManager\\Services\\CategoryService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwEkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:47:01.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Models\\Category.cs",
+              "ToolTip": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Models\\Category.cs",
+              "RelativeToolTip": "FinanceManager\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:46:33.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Services\\TransactionService.cs",
+              "ToolTip": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Services\\TransactionService.cs",
+              "RelativeToolTip": "FinanceManager\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAmwH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:12:34.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Models\\Transaction.cs",
+              "ToolTip": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Models\\Transaction.cs",
+              "RelativeToolTip": "FinanceManager\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:11:01.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Services\\UserService.cs",
+              "ToolTip": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Services\\UserService.cs",
+              "RelativeToolTip": "FinanceManager\\Services\\UserService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:38:26.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Models\\User.cs",
+              "ToolTip": "D:\\Practices-Project\\Practices-Project\\Final-project\\FinanceManager\\FinanceManager\\Models\\User.cs",
+              "RelativeToolTip": "FinanceManager\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:36:59.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
